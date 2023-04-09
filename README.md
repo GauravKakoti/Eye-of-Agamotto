@@ -17,9 +17,13 @@ Our Second Model (Optimized for Computer Systems): Python was used to create our
 Desktop Application(Python): After you download the file, you need to install the dependencies. You can install the dependencies by running the following commands into your terminal.
 
 pip install openCv
+
 pip install Mediapipe
+
 pip install autopy
+
 pip install numpy
+
 pip install pynput
 
 After you install the dependencies, you run the main.py file, and give the application access to your camera.
