@@ -1,5 +1,8 @@
 # Eye-of-Agamotto 🔥
 
+#Demo Video: https://www.youtube.com/watch?v=0e28qeOyccM
+#Presentation Deck: https://www.canva.com/design/DAFfkbcWWfs/m0IbtMFCwJYguLX1-RSthQ/edit?utm_content=DAFfkbcWWfs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ![Agamotto](https://media.giphy.com/media/18RUgAS9WenUMTsxbo/giphy.gif)
 
 # Inspiration 🚀
